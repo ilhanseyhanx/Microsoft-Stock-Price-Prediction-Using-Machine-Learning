@@ -7,7 +7,7 @@ In this project, **Microsoft (MSFT)** stock data is used to predict closing pric
 
 ## 📊 Veri Seti / Dataset
 
-- **Kaynak / Source:** Kaggle - [Microsoft Stock Price History]([https://www.kaggle.com/datasets/adilshamim8/microsoft-stock-price-history/data])
+- **Kaynak / Source:** Kaggle - [Microsoft Stock Price History](https://www.kaggle.com/datasets/adilshamim8/microsoft-stock-price-history/data)
 - **Zaman Aralığı / Date Range:** 1986 - 2023
 - **Sütunlar / Columns:** Date, Open, High, Low, Close, Volume
 
