@@ -57,11 +57,6 @@ The following machine learning models were used:
 Her modelin tahmin ve gerçek kapanış fiyatları çizdirilmiştir.  
 Each model's predicted vs actual closing prices are plotted for comparison.
 
-![Model Prediction Graph](C:\Users\cam2\Desktop\Veri Datalaro\Microsoft Stock Price Prediction Using Machine Learning\DecisionTree.png)
-![Model Prediction Graph](C:\Users\cam2\Desktop\Veri Datalaro\Microsoft Stock Price Prediction Using Machine Learning\KNN.png)
-![Model Prediction Graph](images/knn_vs_actual.png)
-![Model Prediction Graph](images/knn_vs_actual.png)
-![Model Prediction Graph](images/knn_vs_actual.png)
 ---
 
 ## 🚀 Nasıl Çalıştırılır? / How to Run?
